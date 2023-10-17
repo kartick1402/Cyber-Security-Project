@@ -32,7 +32,7 @@ In this project we'll be focussing on Security Information and Event Management 
   
   RBAC -> It stands for Role Based Access Control.
   
-  IAM -> It stands for Identity Access Management.
+  IAM -> It stands for Identity Access Management. IAM ensures that right person, machines, and software components get access to right resources at the right time. First the client(Person, Machines or Software Components) proves their identity and then they are allowed or refused access to the asked resource. It works with the ideology of Authenticating, Authorizing and Accessing. The most common and well known authenticaton and authorization standards are O Auth 2.0, OpenID Connect(OIDC), JSON Web Tokens(JWTs), Security Assertion Markup Language(SAML), System for Cross Domain Identity Management (SCIM), Web-Services Federation(WS-Fed). 
   
 # Azure Services being used in this Project:
 => Azure Sentinel => Azure Log Analytics Workspace => Azure Monitor
