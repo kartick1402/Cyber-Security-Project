@@ -20,7 +20,7 @@ In this project we'll be focussing on Security Information and Event Management 
 # Description 
   **WEEK 1:-**
   
-  Azure Fundamentals -> 
+  Azure Fundamentals ->
   
   Compute Services -> The compute services includes topics of Virtual Machines(VMs), Containers and Azure Functions. VMs provide Infrastructure as a Service(IaaS). VM Scale Sets allows multiple configuring of VMs at the same time. Custom Script Extension is an easy to download & run scripts on your VMs, basically used for configuring the system after VM is ready. Containers are basically light weight OS or Environment for a particular app. It is used to launch a particular app directly without waiting for the OS to boot up and then for the app to boot. Azure functions directly uses an app thereby no infrastucture management, thus no need to focus on administrative tasks like installing an OS, instead we can directly deploy our code.
   
@@ -28,9 +28,9 @@ In this project we'll be focussing on Security Information and Event Management 
   
   Inbound and Oubtound Rule ->
   
-  IAM and Security Montioring ->
+  IAM and Security Montioring -> IAM stands for Identity Access Management. It ensures that right person, machines, and software components get access to right resources at the right time. The concept of security monitoring in Azure is performed by services such as Microsoft Defender for Cloud and Microsoft Sentinel. The Microsoft Defender for Cloud and Microsoft Sentinel store their data in a Log Analytics workspace so that one can use log queries to correlate the data collected by the different services. Azure Monitor agent collects the security events and send them to the Event table with other events. For additional features to collect and analyze these events, it is provided by the Microsoft Sentinel.
   
-  RBAC -> It stands for Role Based Access Control.
+  RBAC -> It stands for Role Based Access Control. It helps us to manage the Cloud Resource allocation to diffefent users, how much resources they use, in which area do they have the resource access and what they can do with the resources. The way of using Azure RBAC is to assign Azure Roles. It means how permissions are enforced. The role assignment consists of three elements: security principal, role definition, and scope. The Azure RBAC data is always stored globally and when deleted it's deleted globally. 
   
   IAM -> It stands for Identity Access Management. IAM ensures that right person, machines, and software components get access to right resources at the right time. First the client(Person, Machines or Software Components) proves their identity and then they are allowed or refused access to the asked resource. It works with the ideology of Authenticating, Authorizing and Accessing. The most common and well known authenticaton and authorization standards are O Auth 2.0, OpenID Connect(OIDC), JSON Web Tokens(JWTs), Security Assertion Markup Language(SAML), System for Cross Domain Identity Management (SCIM), Web-Services Federation(WS-Fed). 
   
