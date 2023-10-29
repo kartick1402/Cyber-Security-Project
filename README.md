@@ -42,4 +42,3 @@ In this project we'll be focussing on Security Information and Event Management 
 => Azure Virtual Machines => Azure Network Security Groups
 
 => Azure Data Connectors => Azure Security Center => Azure Active Directory
-
