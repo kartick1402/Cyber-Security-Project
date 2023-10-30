@@ -2,6 +2,8 @@
 
 In this project we'll be focussing on Security Information and Event Management (SIEM) systems. The project comprises of working on and learning Azure Principles for securing Systems in a Network.
 
+![Azure Sentinelnew](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/0ddc35dd-75fe-42bc-bade-a3eabfe93f62)
+
 ## Description
 
 -> **Setting up Azure Resources:** Dive into the Azure portal and create essential resources like a Log Analytics Workspace, Virtual Machines, and Azure Sentinel to lay the foundation for your lab.
@@ -40,14 +42,17 @@ In this project we'll be focussing on Security Information and Event Management 
 
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="150" height="150"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="150" height="150"/> </a> </p>
 
-<h2 align="center">Week-1</h2>
+<h2 align="center">Week-2</h2>
 
  **The 2nd week was all about .....**
 
 <h1 align="center">Azure Services being used in this Project</h1>
 
-<h3 align="left">=> Azure Sentinel => Azure Log Analytics Workspace => Azure Monitor
-=> Azure Policy => Azure Key Vault => Azure Resource Manager
-=> Azure Virtual Machines => Azure Network Security Groups
-=> Azure Data Connectors => Azure Security Center => Azure Active Directory</h3>
+**=> Azure Sentinel => Azure Log Analytics Workspace => Azure Monitor**
+
+**=> Azure Policy => Azure Key Vault => Azure Resource Manager**
+
+**=> Azure Virtual Machines => Azure Network Security Groups**
+
+**=> Azure Data Connectors => Azure Security Center => Azure Active Directory**
 
