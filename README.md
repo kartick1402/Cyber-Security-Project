@@ -1,7 +1,8 @@
-# Guardian of Azure: Building Expertise in Sentinel and Detection Strategies
+<h1 align="center">Guardian of Azure: Building Expertise in Sentinel and Detection Strategies</h1>
+
 In this project we'll be focussing on Security Information and Event Management (SIEM) systems. The project comprises of working on and learning Azure Principles for securing Systems in a Network.
 
-## Topics
+## Description
 
 -> **Setting up Azure Resources:** Dive into the Azure portal and create essential resources like a Log Analytics Workspace, Virtual Machines, and Azure Sentinel to lay the foundation for your lab.
 
@@ -19,8 +20,9 @@ In this project we'll be focussing on Security Information and Event Management 
 
 -> **Leveraging MITRE ATT&CK Framework:** Explore the renowned MITRE ATT&CK framework, deciphering adversary tactics and techniques. Map these to detection and mitigation procedures for a comprehensive defense strategy.
 
-## Description 
-  **WEEK 1:- The 1st week was all about exploring the Azure Services and getting upto the mark with Basics of Azure, i.e.**
+<h2 align="center">Week-1</h2>
+
+  **The 1st week was all about exploring the Azure Services and getting upto the mark with Basics of Azure, i.e.**
   
   **Azure Fundamentals ->**
   
@@ -35,12 +37,17 @@ In this project we'll be focussing on Security Information and Event Management 
   **RBAC ->** It stands for Role Based Access Control. It helps us to manage the Cloud Resource allocation to diffefent users, how much resources they use, in which area do they have the resource access and what they can do with the resources. The way of using Azure RBAC is to assign Azure Roles. It means how permissions are enforced. The role assignment consists of three elements: security principal, role definition, and scope. The Azure RBAC data is always stored globally and when deleted it's deleted globally. 
   
   **IAM ->** It stands for Identity Access Management. IAM ensures that right person, machines, and software components get access to right resources at the right time. First the client(Person, Machines or Software Components) proves their identity and then they are allowed or refused access to the asked resource. It works with the ideology of Authenticating, Authorizing and Accessing. The most common and well known authenticaton and authorization standards are O Auth 2.0, OpenID Connect(OIDC), JSON Web Tokens(JWTs), Security Assertion Markup Language(SAML), System for Cross Domain Identity Management (SCIM), Web-Services Federation(WS-Fed). 
-  
-# Azure Services being used in this Project:
-=> Azure Sentinel => Azure Log Analytics Workspace => Azure Monitor
 
+<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="150" height="150"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="150" height="150"/> </a> </p>
+
+<h2 align="center">Week-1</h2>
+
+ **The 2nd week was all about .....**
+
+<h1 align="center">Azure Services being used in this Project</h1>
+
+<h3 align="left">=> Azure Sentinel => Azure Log Analytics Workspace => Azure Monitor
 => Azure Policy => Azure Key Vault => Azure Resource Manager
-
 => Azure Virtual Machines => Azure Network Security Groups
+=> Azure Data Connectors => Azure Security Center => Azure Active Directory</h3>
 
-=> Azure Data Connectors => Azure Security Center => Azure Active Directory
