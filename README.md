@@ -2,7 +2,7 @@
 
 In this project we'll be focussing on Security Information and Event Management (SIEM) systems. The project comprises of working on and learning Azure Principles for securing Systems in a Network.
 
-![Azure Sentinelnewnew](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/fb59624a-749a-4d96-9062-d66f3d44c88b)
+![Logo2](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/4d5c2330-203f-42ae-8460-bcbe1a21dc4d)
 
 
 ## Description
