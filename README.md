@@ -46,6 +46,20 @@ In this project we'll be focussing on Security Information and Event Management 
 <h2 align="center">Week-2</h2>
 
  **The 2nd week was all about .....**
+ 
+Knowing where Data is stored and maintained. This thing is performed in a Data Center which consists of Compute nodes, Switches: connecting the racks, A network topology like hierarchical, Storage (backend) nodes connected to the network, Front-end for submitting jobs and receiving client requests, Software Services. 
+
+![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/a4499ada-8067-43aa-8968-aad246d5c7fb)
+
+System oriented Architecture was also covered in which we came to know what we can do on system specific basis, with the help of cloud we have more flexibililty and even we can build Business Applications which can be used to connect anywhere in the world. Even if we want to build IOT Devices or we want to build some 3D applications or games, we can do this using cloud and further can easily share our resources with anyone over the globe.
+
+![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/e328ca59-906e-4c45-a108-4c4bcf184e27)
+
+The Core Cloud Computing is of 2 types, Based on Deployment Model and Based on Service Model which is distributed in either off-premises or on-premises. The off-premises covers up working in Public and Private Cloud on a Cloud Platform whereas in the on-premises the dedicated hosts run on a local network also called Private Cloud.
+
+![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/03af90b6-b422-4376-83d2-427fb58a25e7)
+
+
 
 <h1 align="center">Azure Services being used in this Project</h1>
 
