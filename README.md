@@ -45,7 +45,7 @@ In this project we'll be focussing on Security Information and Event Management 
 
 <h2 align="center">Week-2</h2>
 
- **The 2nd week was all about .....**
+ **The 2nd week was all about Compute Services**
  
 Knowing where Data is stored and maintained. This thing is performed in a Data Center which consists of Compute nodes, Switches: connecting the racks, A network topology like hierarchical, Storage (backend) nodes connected to the network, Front-end for submitting jobs and receiving client requests, Software Services. 
 
@@ -59,7 +59,7 @@ The Core Cloud Computing is of 2 types, Based on Deployment Model and Based on S
 
 ![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/03af90b6-b422-4376-83d2-427fb58a25e7)
 
-
+Understanding Network Security Group Installing Apache Server, 
 
 <h1 align="center">Azure Services being used in this Project</h1>
 
