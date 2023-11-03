@@ -70,12 +70,18 @@ To access the machine after creating it in Azure,
 You will be able to access the Virtual Machine as root user.
 
 Following command gives you the server address of any website just replace "portal.azure.com" with desired website URL.
+
 ``` nslookup portal.azure.com ```
 
-
-After creating the VM, when enhanced our understanding on Network Security Group and Installed Apache Server, then performing the DDOS attack. 
+After creating the VM, we enhanced our understanding on Network Security Group and Installed Apache Server, then performed the DDOS attack. 
 
 LINK COMES HERE
+
+<h2 align="center">CONCLUSION</h2>
+
+This is the project solutions architecture as final output:-
+
+![WhatsApp Image 2023-11-03 at 14 38 03_fe355056](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/6982430c-e9be-4de3-b9c7-4c1150083ffb)
 
 <h1 align="center">Azure Services being used in this Project</h1>
 
