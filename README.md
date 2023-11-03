@@ -73,7 +73,7 @@ Following command gives you the server address of any website just replace "port
 
 ``` nslookup portal.azure.com ```
 
-After creating the VM, we enhanced our understanding on Network Security Group and Installed Apache Server, then performed the DDOS attack. 
+After creating the VM, we enhanced our understanding on DDoS Attacks, Inbound Oubound Rules and Network Security Group; Installed Apache Server, and learnt about Launching web server at different ports using public IP. 
 
 LINK COMES HERE
 
