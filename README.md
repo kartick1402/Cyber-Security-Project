@@ -59,7 +59,14 @@ The Core Cloud Computing is of 2 types, Based on Deployment Model and Based on S
 
 ![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/03af90b6-b422-4376-83d2-427fb58a25e7)
 
-Understanding Network Security Group Installing Apache Server, 
+After this we created a virtual machine in AZURE, following is the video on how to create a Linux Machine in Microsoft Azure Portal
+
+
+
+
+
+
+Understanding Network Security Group and Installing Apache Server, then performing the DDOS attack 
 
 <h1 align="center">Azure Services being used in this Project</h1>
 
