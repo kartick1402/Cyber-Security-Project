@@ -103,7 +103,19 @@ The end of WEEK-3 was done by creating Microsoft Sentinel. Microsoft Sentinel is
 
 The 4th week was all about.....
 
+Since Sentinel is a paid feature of Azure so alternative of that we can go with the open source tool called **Wazuh**. it's a SIEM solution that we have to install and deploy. It works on SIEM Solution comprising of log managements.
 
+![deployment-architecture1](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/83f4a506-5477-4a57-b20a-5e7e37f96cea)
+
+Then, we installed Wazuh in Virtual Machine in Azure. Following is the video for the purpose:-
+
+LINK
+
+We discussed abput Wazuh got to know about some of it imortant services and what mainly Wazuh includes:-
+1. Wazuh Agent
+2. Wazuh Server
+
+The session ended with the a Great Conceptual understanding of Wazuh.
 
 <h2 align="center">CONCLUSION</h2>
 
@@ -123,6 +135,6 @@ This is the project solutions architecture as final output:-
 
 <h1 align="center">Resources used</h1>
 
-For few images have referred to the material given by Mentors in the Cohort and few are taken from the google.
+For few images and few textual content, have referred to the material given by Mentors in the Cohort and few are taken from the google.
 
 The logos are used from vectorlogo
