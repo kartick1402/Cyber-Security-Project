@@ -81,11 +81,22 @@ LINK COMES HERE
 The 3rd week is all about.....
 
 Knowing different SIEM solutions like Splunk QA, Wazuh, OSM, etc.  in local Windows system we have Microsoft Defender that works like a antivirus part, it also protect us from ransomware and provides file Integrity, virus monitoring and thread protection. We have Hybrid architectures in which half part is managed by a local server and half part is managed by the cloud platform. The main important area for companies using cloud services is to secure their Network parameters, Network endpoint and Cloud services because that are connected with your local server. 
-After through dome of the basics of the Azure Security Services we Created a Firewall. Following is the video on how to create a Firewall in Azure Services:-
+
+![image](https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/181d42d2-779d-4683-9044-cce840867c90)
+
+
+After going through some of the basics of the Azure Security Services we Created a Firewall. Following is the video on how to create a Firewall in Azure Services:-
 
 LINK COMES HERE
 
 Meanwhile creating the Firewall we also got to know about the TLS which is used to protect on transport layer, let's suppose if someone is streaming some service like video calling or live streaming or if streaming live courses so there the data travels through UDB protocol and so there we require TLS certificate protection so that nobody can perform dos attack to stop the live streaming services.
+Then we got to know about IAM(IDENTITY ACCESS MANAGEMENT) and Access control and how it can be managed in an organization. Got to know how to create users and roles, and connect to identity services such as AWS and Entra Connect.
+
+The end of WEEK-3 was done by creating Microsoft Sentinel. Microsoft Sentinel is a cloud-native, security information event management (SIEM), and security orchestration automated response (SOAR) solution.
+
+Following is the video of Creating Microsoft Sentinel Workspace:-
+
+LINK HERE COMES
 
 <h2 align="center">CONCLUSION</h2>
 
