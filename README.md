@@ -79,7 +79,7 @@ https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/45759053-
 
 <h2 align="center">Week-3</h2>
 
-The 3rd week is all about.....
+The 3rd week was all about.....
 
 Knowing different SIEM solutions like Splunk QA, Wazuh, OSM, etc.  in local Windows system we have Microsoft Defender that works like a antivirus part, it also protect us from ransomware and provides file Integrity, virus monitoring and thread protection. We have Hybrid architectures in which half part is managed by a local server and half part is managed by the cloud platform. The main important area for companies using cloud services is to secure their Network parameters, Network endpoint and Cloud services because that are connected with your local server. 
 
@@ -101,6 +101,7 @@ The end of WEEK-3 was done by creating Microsoft Sentinel. Microsoft Sentinel is
 
 <h2 align="center">Week-4</h2>
 
+The 4th week was all about.....
 
 
 
@@ -120,3 +121,8 @@ This is the project solutions architecture as final output:-
 
 **=> Azure Data Connectors => Azure Security Center => Azure Active Directory**
 
+<h1 align="center">Resources used</h1>
+
+For few images have referred to the material given by Mentors in the Cohort and few are taken from the google.
+
+The logos are used from vectorlogo
