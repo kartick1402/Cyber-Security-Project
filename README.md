@@ -109,7 +109,11 @@ Since Sentinel is a paid feature of Azure so alternative of that we can go with 
 
 Then, we installed Wazuh in Virtual Machine in Azure. Following is the video for the purpose:-
 
-LINK
+
+
+Uploading COHORT VID-4.mp4…
+
+
 
 We discussed abput Wazuh got to know about some of it imortant services and what mainly Wazuh includes:-
 1. Wazuh Agent
