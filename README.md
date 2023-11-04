@@ -70,7 +70,6 @@ To access the machine after creating it in Azure,
 You will be able to access the Virtual Machine as root user.
 
 Following command gives you the server address of any website just replace "portal.azure.com" with desired website URL.
-
 ``` nslookup portal.azure.com ```
 
 After creating the VM, we enhanced our understanding on DDoS Attacks, Inbound Oubound Rules and Network Security Group; Installed Apache Server, and learnt about Launching web server at different ports using public IP. 
@@ -80,6 +79,13 @@ LINK COMES HERE
 <h2 align="center">Week-3</h2>
 
 The 3rd week is all about.....
+
+Knowing different SIEM solutions like Splunk QA, Wazuh, OSM, etc.  in local Windows system we have Microsoft Defender that works like a antivirus part, it also protect us from ransomware and provides file Integrity, virus monitoring and thread protection. We have Hybrid architectures in which half part is managed by a local server and half part is managed by the cloud platform. The main important area for companies using cloud services is to secure their Network parameters, Network endpoint and Cloud services because that are connected with your local server. 
+After through dome of the basics of the Azure Security Services we Created a Firewall. Following is the video on how to create a Firewall in Azure Services:-
+
+LINK COMES HERE
+
+Meanwhile creating the Firewall we also got to know about the TLS which is used to protect on transport layer, let's suppose if someone is streaming some service like video calling or live streaming or if streaming live courses so there the data travels through UDB protocol and so there we require TLS certificate protection so that nobody can perform dos attack to stop the live streaming services.
 
 <h2 align="center">CONCLUSION</h2>
 
