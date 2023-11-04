@@ -61,7 +61,7 @@ The Core Cloud Computing is of 2 types, Based on Deployment Model and Based on S
 
 After this we created a virtual machine in AZURE, following is the video on how to create a Linux Machine in Microsoft Azure Portal.
 
-LINK COMES HERE
+https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/03b32a25-a2bb-4039-9890-127f31c90beb
 
 To access the machine after creating it in Azure,
 1. Type :-  ``` cd downloads ``` 
@@ -70,11 +70,12 @@ To access the machine after creating it in Azure,
 You will be able to access the Virtual Machine as root user.
 
 Following command gives you the server address of any website just replace "portal.azure.com" with desired website URL.
+
 ``` nslookup portal.azure.com ```
 
 After creating the VM, we enhanced our understanding on DDoS Attacks, Inbound Oubound Rules and Network Security Group; Installed Apache Server, and learnt about Launching web server at different ports using public IP. 
 
-LINK COMES HERE
+https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/45759053-90bc-49c0-8a57-31f76464e074
 
 <h2 align="center">Week-3</h2>
 
@@ -87,16 +88,21 @@ Knowing different SIEM solutions like Splunk QA, Wazuh, OSM, etc.  in local Wind
 
 After going through some of the basics of the Azure Security Services we Created a Firewall. Following is the video on how to create a Firewall in Azure Services:-
 
-LINK COMES HERE
+
+
+https://github.com/kartick1402/Cyber-Security-Project/assets/104575906/8c007859-8268-4f4f-b42e-578b7fd37302
+
+
 
 Meanwhile creating the Firewall we also got to know about the TLS which is used to protect on transport layer, let's suppose if someone is streaming some service like video calling or live streaming or if streaming live courses so there the data travels through UDB protocol and so there we require TLS certificate protection so that nobody can perform dos attack to stop the live streaming services.
 Then we got to know about IAM(IDENTITY ACCESS MANAGEMENT) and Access control and how it can be managed in an organization. Got to know how to create users and roles, and connect to identity services such as AWS and Entra Connect.
 
 The end of WEEK-3 was done by creating Microsoft Sentinel. Microsoft Sentinel is a cloud-native, security information event management (SIEM), and security orchestration automated response (SOAR) solution.
 
-Following is the video of Creating Microsoft Sentinel Workspace:-
+<h2 align="center">Week-4</h2>
 
-LINK HERE COMES
+
+
 
 <h2 align="center">CONCLUSION</h2>
 
